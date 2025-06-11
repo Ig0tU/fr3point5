@@ -1,190 +1,195 @@
-<div align="center">
-<img src="./images/logo.png" alt="icon" width="50px"/>
-<h1 align="center">GPT-API-free / DeepSeek-API-free</h1>
+\<div align="center"\>
+\<img src="./images/logo.png" alt="icon" width="50px"/\>
+\<h1 align="center"\>GPT-API-free / DeepSeek-API-free\</h1\>
 
-免费使用 gpt | deepseek / 支持 gpt | deepseek | claude | gemini | grok
+Free to use gpt | deepseek / Supports gpt | deepseek | claude | gemini | grok
 
-国内动态加速 直连无需代理 协议统一接入便捷
+Domestic dynamic acceleration, direct connection without a proxy, unified protocol for convenient access.
 
-[快速开始](#如何使用) / [API文档](https://chatanywhere.apifox.cn/) / [申请内测免费Key](https://api.chatanywhere.org/v1/oauth/free/render) / [支持付费Key](https://api.chatanywhere.tech/#/shop/) / [服务可用性](https://status.chatanywhere.tech/)
+[Quick Start](https://www.google.com/search?q=%23how-to-use) / [API Documentation](https://chatanywhere.apifox.cn/) / [Apply for a Free Internal Test Key](https://api.chatanywhere.org/v1/oauth/free/render) / [Paid Key Support](https://api.chatanywhere.tech/#/shop/) / [Service Availability](https://status.chatanywhere.tech/)
 
-[QQ群: 599246660](https://qm.qq.com/cgi-bin/qm/qr?k=gmUR-0pW2VxzkXFiGLgvzOa7Ar01y3Vk&jump_from=webapi&authKey=pPr3pz15zNrM7YiaRklsuDafWclmBxQ/PBLf6DdoYo16p6Li0O9T3jXSZVuuzC1K)
+[QQ Group: 599246660](https://qm.qq.com/cgi-bin/qm/qr?k=gmUR-0pW2VxzkXFiGLgvzOa7Ar01y3Vk&jump_from=webapi&authKey=pPr3pz15zNrM7YiaRklsuDafWclmBxQ/PBLf6DdoYo16p6Li0O9T3jXSZVuuzC1K)
 
-[![](https://status.chatanywhere.org/api/badge/6/uptime/24?labelPrefix=GPT:)](https://status.chatanywhere.tech/)
-[![](https://status.chatanywhere.org/api/badge/10/uptime/24?labelPrefix=GPT-CA系列:)](https://status.chatanywhere.tech/)
+[](https://status.chatanywhere.tech/)
+[](https://status.chatanywhere.tech/)
 
-[![](https://status.chatanywhere.org/api/badge/8/uptime/24?labelPrefix=Claude:)](https://status.chatanywhere.tech/)
-[![](https://status.chatanywhere.org/api/badge/3/uptime/24?labelPrefix=Gemini:)](https://status.chatanywhere.tech/)
-[![](https://status.chatanywhere.org/api/badge/4/uptime/24?labelPrefix=Deepseek:)](https://status.chatanywhere.tech/)
+[](https://status.chatanywhere.tech/)
+[](https://status.chatanywhere.tech/)
+[](https://status.chatanywhere.tech/)
 
+\</div\>
 
-</div>
+## Privacy Statement
 
-## 隐私声明
+This project places a high value on privacy and is committed to protecting the privacy of its users. This project does not collect, record, or store any text entered by users or any text returned by the OpenAI servers in any way. This project does not provide any information about the identity of the API caller to OpenAI or any third party, including but not limited to IP addresses and user agent strings.
 
-该项目高度重视隐私，致力于保护其用户的隐私。该项目不会以任何方式收集、记录或存储用户输入的任何文本或由 OpenAI 服务器返回的任何文本。该项目不会向 OpenAI 或任何第三方提供有关 API 调用者的身份的任何信息，包括但不限于 IP 地址和用户代理字符串。
+However, OpenAI will retain data for 30 days in accordance with its [data usage policy](https://platform.openai.com/docs/data-usage-policies).
 
-但OpenAI官方会根据其[数据使用政策](https://platform.openai.com/docs/data-usage-policies)保留 30 天的数据。
+## Features
 
-## 特点
-1. 支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
-2. 免费版支持gpt-4o，gpt-4.1一天5次；支持deepseek-r1, deepseek-v3一天30次，支持gpt-4o-mini，gpt-3.5-turbo，gpt-4.1-mini，gpt-4.1-nano一天200次。
-3. 与官方完全一致的接口标准，兼容各种软件/插件。
-4. 支持流式响应。
-5. 国内线路使用动态加速，体验远优于使用代理连接官方。
-6. 无需科学上网，国内环境直接可用。
-7. 个人完全免费使用。
-8. 协议统一使用openai标准协议，其他厂商模型仅需更换模型名称，接入便捷
+1.  Supports top-ranked large models such as gpt | deepseek | claude | gemini | grok.
+2.  The free version supports gpt-4o, gpt-4.1 five times a day; supports deepseek-r1, deepseek-v3 thirty times a day; supports gpt-4o-mini, gpt-3.5-turbo, gpt-4.1-mini, gpt-4.1-nano 200 times a day.
+3.  Interface standards are completely consistent with the official ones, compatible with various software/plugins.
+4.  Supports streaming responses.
+5.  Domestic routes use dynamic acceleration, providing a much better experience than using a proxy to connect to the official servers.
+6.  No need for a VPN ("scientific internet access"), directly usable in a domestic environment.
+7.  Completely free for personal use.
+8.  The protocol uniformly uses the OpenAI standard protocol. For models from other manufacturers, you only need to change the model name, making access convenient.
 
-## 🚩注意事项
+## 🚩Notices
 
-❗️*如果遇到无回复，报错等情况，可以查看 [status.chatanywhere.tech](https://status.chatanywhere.tech)，确认服务状态是否正常，以帮助排查问题。*
+❗️*If you encounter no response, errors, etc., you can check [status.chatanywhere.tech](https://status.chatanywhere.tech) to confirm if the service status is normal, which can help troubleshoot the problem.*
 
-❗️**免费API Key仅可用于个人非商业用途，教育，非营利性科研工作中。免费API Key严禁商用，严禁大规模训练商用模型！训练科研用模型请提前加群联系我们。**
+❗️**Free API Keys are for personal, non-commercial use, education, and non-profit scientific research only. Free API Keys are strictly prohibited for commercial use and for large-scale training of commercial models\! For training research models, please join the QQ group and contact us in advance.**
 
-❗️我们将不定期对被滥用的Key进行封禁，如发现自己的key被误封请通过QQ群联系我们。
+❗️We will periodically ban keys that are being abused. If you find your key has been mistakenly banned, please contact us through the QQ group.
 
-❗️我们的系统仅供内部评估测试使用，商用或面向大众使用请自行承担风险。
+❗️Our system is for internal evaluation and testing purposes only. You assume your own risk for commercial use or use oriented towards the general public.
 
-为了该项目长久发展，免费API Key限制**200请求/天/IP&Key**调用频率（gpt和embedding分开计算，各200次），也就是说你如果在一个IP下使用多个Key，所有Key的每天请求数总和不能超过200；同理，你如果将一个Key用于多个IP，这个Key的每天请求数也不能超过200。(**付费版API没有这个限制**)
+For the long-term development of this project, the free API Key is limited to a frequency of **200 requests/day/IP & Key** (gpt and embedding are calculated separately, 200 times each). This means if you use multiple keys under one IP, the total number of daily requests for all keys cannot exceed 200; similarly, if you use one key on multiple IPs, the daily number of requests for this key cannot exceed 200. (**The paid version of the API does not have this limitation**)
 
-## 免费使用
+## Free Use
 
-- **🚀[申请领取内测免费API Key](https://api.chatanywhere.org/v1/oauth/free/render)**
-- 免费版支持deepseek, gpt-3.5-turbo, embedding, gpt-4o-mini, gpt-4o。
-- **转发Host1: `https://api.chatanywhere.tech` (国内中转，延时更低)**
-- **转发Host2: `https://api.chatanywhere.org` (国外使用)**
+  - **🚀[Apply for a free internal test API Key](https://api.chatanywhere.org/v1/oauth/free/render)**
+  - The free version supports deepseek, gpt-3.5-turbo, embedding, gpt-4o-mini, gpt-4o.
+  - **Forwarding Host 1: `https://api.chatanywhere.tech` (Domestic relay, lower latency)**
+  - **Forwarding Host 2: `https://api.chatanywhere.org` (For use outside of China)**
 
+We will periodically expand capacity based on usage. As long as we are not sanctioned by the officials, we will continue to provide a free API. If this project is helpful to you, please give us a ***Star***. If you encounter problems, you can provide feedback in the [Issues](https://github.com/chatanywhere/GPT_API_free/issues), and we will answer when we have time.
 
-我们会定期根据使用量进行相应的扩容，只要不被官方制裁我们会一直提供免费API，如果该项目对你有帮助，还请为我们点一个***Star***。如果遇到问题可以在[Issues](https://github.com/chatanywhere/GPT_API_free/issues)中反馈，有空会解答。
+This API Key is used for forwarding the API. You need to change the Host to `api.chatanywhere.tech` (first choice for domestic use) or `api.chatanywhere.org` (for use abroad).
 
-该API Key用于转发API，需要将Host改为`api.chatanywhere.tech`(国内首选)或者`api.chatanywhere.org`(国外使用)。
+## Paid API
 
-## 付费版API
-- 纯公益提供免费Key显然不是能持久运营下去的方案，所以我们引入付费API Key维持项目的日常开销，以促进项目的良性循环，还望大家理解。
-- [购买付费Key](https://api.chatanywhere.tech/#/shop/)
-- [付费版价格表](https://chatanywhere.apifox.cn/doc-2694962)
+  - Providing a free key purely for public benefit is clearly not a sustainable operating plan. Therefore, we have introduced a paid API Key to cover the daily expenses of the project and promote its healthy cycle. We hope for your understanding.
+  - [Purchase a paid Key](https://api.chatanywhere.tech/#/shop/)
+  - [Paid Version Price List](https://chatanywhere.apifox.cn/doc-2694962)
 
-1. 支持**更稳定更快速的GPT4 API**，GPT4体验更好，无限使用，价格低于官方，充值更便捷。
-2. 同官网计费策略，流式问答使用tiktoken库准确计算Tokens，非流式问答直接使用官方返回Tokens用量计费。
-3. 余额不会过期，永久有效。根据用户反馈30块钱个人中度使用gpt-4o-mini估计能用半年。
-4. 所有的接口（包括免费版本）都保证转发自OpenAI或Azure官方接口，非peo、plus等不稳定方案或逆向方案，无水分，不掺假，保证稳定性。
+<!-- end list -->
 
-## 付费版支持模型
-| **模型（Model）** | **请求（Input）** | **回答（Output）** | **是否支持** | **特点** |
-| --- | --- | --- | --- | --- |
-| o3 | 0.08 / 1K Tokens | 0.32  / 1K Tokens | 支持 | 为数学、科学、编码、视觉推理任务和技术写作设定了新的标准。 指向o3-2025-04-16|
-| o3-2025-04-16 | 0.08 / 1K Tokens | 0.32   / 1K Tokens | 支持 | 为数学、科学、编码、视觉推理任务和技术写作设定了新的标准。 |
-| o4-mini | 0.0088 / 1K Tokens | 0.0352  / 1K Tokens | 支持 | 为数学、科学、编码、视觉推理任务和技术写作设定了新的标准。 指向o4-mini-2025-04-16|
-| o4-mini-2025-04-16 | 0.0088 / 1K Tokens | 0.0352  / 1K Tokens | 支持 | 为数学、科学、编码、视觉推理任务和技术写作设定了新的标准。 |
-| gpt-4.1 |  0.014 / 1K Tokens | 0.056   / 1K Tokens | 支持 | OpenAI最新推出的模型 在编码、指令跟踪和长上下文方面都有重大改进1M输入32k输出 指向gpt-4.1-2025-04-14 |
-| gpt-4.1-2025-04-14 | 0.014 / 1K Tokens | 0.056  / 1K Tokens | 支持 | OpenAI最新推出的模型 在编码、指令跟踪和长上下文方面都有重大改进1M输入32k输出|
-| gpt-4.1-mini | 0.0028 / 1K Tokens | 0.0112  / 1K Tokens | 支持 | OpenAI最新推出的模型 在编码、指令跟踪和长上下文方面都有重大改进1M输入32k输出 指向gpt-4.1-mini-2025-04-14 |
-| gpt-4.1-mini-2025-04-14 | 0.0028 / 1K Tokens | 0.0112  / 1K Tokens | 支持 | OpenAI最新推出的模型 在编码、指令跟踪和长上下文方面都有重大改进1M输入32k输出|
-| gpt-4.1-nano | 0.0007 / 1K Tokens | 0.0028  / 1K Tokens | 支持 | OpenAI最新推出的模型 在编码、指令跟踪和长上下文方面都有重大改进1M输入32k输出 指向gpt-4.1-nano-2025-04-14 |
-| gpt-4.1-nano-2025-04-14 | 0.0007 / 1K Tokens | 0.0028  / 1K Tokens | 支持 | OpenAI最新推出的模型 在编码、指令跟踪和长上下文方面都有重大改进1M输入32k输出|
-| gpt-3.5-turbo | 0.0035 / 1K Tokens | 0.0105 / 1K Tokens | 支持 | 默认模型，等于gpt-3.5-turbo-0125|
-| gpt-3.5-turbo-1106 | 0.007 / 1K Tokens | 0.014 / 1K Tokens | 支持 | 2023年11月6日更新的模型|
-| gpt-3.5-turbo-0125 | 0.0035 / 1K Tokens | 0.0105 / 1K Tokens | 支持 | 2024年1月25日最新模型，数据最新，价格更更低，速度更快，修复了一些1106的bug。|
-| gpt-3.5-turbo-16k | 0.021 / 1K Tokens | 0.028 / 1K Tokens | 支持 | 适合快速回答简单问题,字数更多 |
-| gpt-3.5-turbo-instruct | 0.0105 / 1K Tokens | 0.014 / 1K Tokens | 支持 |Completions模型 用于文本生成，提供准确的自然语言处理模型一般人用不上|
-| gpt-4.5-preview | 0.525 / 1K Tokens | 1.05 / 1K Tokens | 支持 | openai最新模型，gpt-4.5 |
-| gpt-4.5-preview-2025-02-27  | 0.525 / 1K Tokens | 1.05 / 1K Tokens | 支持 | openai最新模型，gpt-4.5 |
-| o1-mini | 0.021 / 1K Tokens | 0.084 / 1K Tokens | 支持 | 针对复杂任务的推理模型 |
-| o1-preview | 0.105 / 1K Tokens | 0.42 / 1K Tokens | 支持 | 针对复杂任务的推理模型 |
-| o3-mini [5]| 0.0088 / 1K Tokens | 0.0352 / 1K Tokens | 支持 | 针对复杂任务的推理模型 |
-| o1 [5]| 0.12 / 1K Tokens | 0.48 / 1K Tokens | 支持 | 针对复杂任务的推理模型,迄今为止最牛的模型 |
-| gpt-4o-search-preview  | 0.02125/1K Tokens | 0.085/1K Tokens| 支持 | Openai 出的搜索模型,支持网络搜索,指向最新的4o的搜索模型|
-| gpt-4o-search-preview-2025-03-11| 0.02125/1K Tokens | 0.085/1K Tokens| 支持 | Openai 出的搜索模型,支持网络搜索|
-| gpt-4o-mini-search-preview | 0.001275/1K Tokens | 0.0051 /1K Tokens| 支持 | Openai 出的搜索模型,支持网络搜索,指向最新的4o-mini的搜索模型|
-| gpt-4o-mini-search-preview-2025-03-11 |  0.001275/1K Tokens | 0.0051 /1K Tokens| 支持 | Openai 出的搜索模型,支持网络搜索|
-| gpt-4 | 0.21 / 1K Tokens | 0.42 / 1K Tokens | 支持 | 默认模型，等于gpt-4-0613 |
-| gpt-4o | 0.0175/1K Tokens + 图片费用[2]| 0.07/1K Tokens| 支持 | Openai 价格更低, 速度更快更聪明,指向最新版的4o版本|
-| gpt-4o-2024-05-13 | 0.035/1K Tokens + 图片费用[2]| 0.105/1K Tokens | 支持 | Openai 2024-05-13出的gpt-4o模型|
-| gpt-4o-2024-08-06 | 0.0175/1K Tokens + 图片费用[2]| 0.07/1K Tokens | 支持 | Openai 2024-08-06出的gpt-4o模型 支持128k输入,16k输出|
-| gpt-4o-2024-11-20 | 0.0175/1K Tokens + 图片费用[2]| 0.07/1K Tokens | 支持 | Openai 2024-11-20出的gpt-4o模型, 该模型的创意写作能力得到了提升一更自然、更有吸引力、更有针对性的写作|
-| chatgpt-4o-latest | 0.035/1K Tokens + 图片费用[2]| 0.105/1K Tokens | 支持 | 动态更新的版本，持续集成OpenAI最新的研究成果[4]|
-| gpt-4o-mini | 0.00105/1K Tokens + 图片费用[2]| 0.0042/1K Tokens| 支持 | Openai 最新模型, 价格更低, 输出质量在3.5之上4o之下, 并且支持读图|
-| gpt-4-0613 | 0.21 / 1K Tokens | 0.42 / 1K Tokens | 支持 | 2023年6月13日更新的模型 |
-| gpt-4-turbo-preview | 0.07 / 1K Tokens| 0.21 / 1K Tokens | 支持 | 最新模型，输入128K，输出最大4K，知识库最新2023年4月, 此模型始终指向最新的4的preview模型|
-| gpt-4-0125-preview | 0.07 / 1K Tokens| 0.21 / 1K Tokens | 支持 | 2024年1月25日更新的模型，输入128K，输出最大4K，知识库最新2023年4月, 修复了一些1106的bug|
-| gpt-4-1106-preview | 0.07 / 1K Tokens| 0.21 / 1K Tokens | 支持 | 2023年11月6日更新的模型，输入128K，输出最大4K，知识库最新2023年4月|
-| gpt-4-vision-preview | 0.07 / 1K Tokens + 图片费用[2]| 0.21 / 1K Tokens | 支持 |多模态，支持图片识别|
-| gpt-4-turbo | 0.07 / 1K Tokens + 图片费用[2]| 0.21 / 1K Tokens | 支持 | Openai 最新模型多模态，支持图片识别，支持函数tools|
-| gpt-4-turbo-2024-04-09 | 0.07 / 1K Tokens + 0.10115\*图片个数[2]| 0.21 / 1K Tokens | 支持 | Openai 最新模型多模态，支持图片识别，支持函数tools|
-| gpt-3.5-turbo-ca | 0.001 / 1K Tokens | 0.003 / 1K Tokens | 支持 | Azure openai中转(也属于官方模型的一种)价格便宜, 但是回复的慢一些|
-| gpt-4-ca | 0.12 / 1K Tokens | 0.24 / 1K Tokens | 支持 |第三方优质提供商提供的服务,优点价格便宜,但是稳定性没有非-ca的好, 模型返回和能力都是一样的|
-| gpt-4-turbo-ca | 0.04 / 1K Tokens + 0.0578\*图片个数[3]| 0.12 / 1K Tokens | 支持 |第三方优质提供商提供的服务,优点价格便宜,但是稳定性没有非-ca的好, 模型返回和能力都是一样的|
-| gpt-4o-ca | 0.01 / 1K Tokens + 0.0289\*图片个数[3]| 0.04 / 1K Tokens | 支持 | 第三方优质提供商提供的服务,优点价格便宜,但是稳定性没有非-ca的好, 模型返回和能力都是一样的|
-| gpt-4o-mini-ca | 0.00075 / 1K Tokens| 0.003 / 1K Tokens | 支持 | 第三方优质提供商提供的服务,优点价格便宜,但是稳定性没有非-ca的好, 模型返回和能力都是一样的|
-| chatgpt-4o-latest-ca | 0.02 / 1K Tokens| 0.06 / 1K Tokens | 支持 | 第三方优质提供商提供的服务,优点价格便宜,但是稳定性没有非-ca的好, 模型返回和能力都是一样的|
-| o1-mini-ca | 0.012 / 1K Tokens | 0.048 / 1K Tokens | 支持 | 第三方优质提供商提供的服务,优点价格便宜,但是稳定性没有非-ca的好, 模型返回和能力都是一样的 |
-| o1-preview-ca | 0.06 / 1K Tokens | 0.24 / 1K Tokens | 支持 | 第三方优质提供商提供的服务,优点价格便宜,但是稳定性没有非-ca的好, 模型返回和能力都是一样的 |
-| deepseek-reasoner | 0.0036  / 1K Tokens | 0.0144 / 1K Tokens | 支持 |deepseek的思考R1模型, 此模型由第三方供应商自己部署提供，有小概率可能会出现响应速度较慢或报错的情况。|
-| deepseek-r1 | 0.0024  / 1K Tokens | 0.0096 / 1K Tokens | 支持 |deepseek的思考R1模型, 此模型由第三方(火山引擎)供应商提供，有小概率可能会出现响应速度较慢或报错的情况。|
-| deepseek-v3 | 0.0012  / 1K Tokens | 0.0048 / 1K Tokens | 支持 |deepseek的聊天模型, 此模型由第三方(火山引擎)供应商提供，有小概率可能会出现响应速度较慢或报错的情况。|
-| claude-3-7-sonnet-20250219 | 0.015 / 1K Tokens | 0.075 / 1K Tokens | 支持 |claude的模型, 此模型由第三方供应商提供，有小概率可能会出现响应速度较慢或报错的情况。|
-| claude-3-5-sonnet-20240620 | 0.015 / 1K Tokens | 0.075 / 1K Tokens | 支持 |claude的模型, 此模型由第三方供应商提供，有小概率可能会出现响应速度较慢或报错的情况。|
-| claude-3-5-sonnet-20241022 | 0.015 / 1K Tokens | 0.075 / 1K Tokens | 支持 |claude的模型, 此模型由第三方供应商提供，有小概率可能会出现响应速度较慢或报错的情况。|
-| claude-3-5-haiku-20241022 | 0.005 / 1K Tokens | 0.025 / 1K Tokens | 支持 |claude的模型, 此模型由第三方供应商提供，有小概率可能会出现响应速度较慢或报错的情况。|
-| gemini-1.5-flash-latest | 0.0006 / 1K Tokens | 0.0024 / 1K Tokens | 支持 |Google Gemini 的模型, 此模型由第三方供应商提供，有小概率可能会出现响应速度较慢或报错的情况。|
-| gemini-1.5-pro-latest | 0.01 / 1K Tokens | 0.04 / 1K Tokens | 支持 |Google Gemini 的模型, 此模型由第三方供应商提供，有小概率可能会出现响应速度较慢或报错的情况。|
-| gemini-exp-1206 | 0.01 / 1K Tokens | 0.04 / 1K Tokens | 支持 |Google Gemini 的模型, 此模型由第三方供应商提供，有小概率可能会出现响应速度较慢或报错的情况。|
-| gemini-2.0-flash-exp | 0.01 / 1K Tokens | 0.04 / 1K Tokens | 支持 |Google Gemini 的模型, 此模型由第三方供应商提供，有小概率可能会出现响应速度较慢或报错的情况。|
-| gemini-2.0-pro-exp-02-05 | 0.01 / 1K Tokens | 0.04 / 1K Tokens | 支持 |Google Gemini 的模型, 此模型由第三方供应商提供，有小概率可能会出现响应速度较慢或报错的情况。|
-| gemini-2.0-flash | 0.005 / 1K Tokens | 0.02 / 1K Tokens | 支持 |Google Gemini 的模型, 此模型由第三方供应商提供，有小概率可能会出现响应速度较慢或报错的情况。|
-| gemini-2.5-pro-exp-03-25 | 0.01 / 1K Tokens | 0.04 / 1K Tokens | 支持 | 是gemini 最新的旗舰模型, 此模型由第三方供应商提供，有小概率可能会出现响应速度较慢或报错的情况。|
-| gemini-2.5-pro-preview-05-06 | 0.01 / 1K Tokens | 0.04 / 1K Tokens | 支持 | 是gemini 最新的旗舰模型, 此模型由第三方供应商提供，有小概率可能会出现响应速度较慢或报错的情况。|
-| gemini-2.5-flash-preview-04-17 | 0.0006 / 1K Tokens | 0.014 / 1K Tokens | 支持 | 是gemini 最新的旗舰模型, 此模型由第三方供应商提供，有小概率可能会出现响应速度较慢或报错的情况。|
-| grok-3 | 0.016 / 1K Tokens | 0.08 / 1K Tokens | 支持 |grok基础模型（网页逆向版）, 此模型由第三方供应商提供，有小概率可能会出现响应速度较慢或报错的情况。|
-| grok-3-reasoner | 0.016 / 1K Tokens | 0.08 / 1K Tokens | 支持 |推理增强模型（网页逆向版）, 此模型由第三方供应商提供，有小概率可能会出现响应速度较慢或报错的情况。|
-| grok-3-deepsearch | 0.016 / 1K Tokens | 0.08 / 1K Tokens | 支持 |深度联网搜索模型（网页逆向版）, 此模型由第三方供应商提供，有小概率可能会出现响应速度较慢或报错的情况。|
+1.  Supports a **more stable and faster GPT4 API**. The GPT4 experience is better, usage is unlimited, the price is lower than the official one, and recharging is more convenient.
+2.  Billing strategy is the same as the official one. For streaming Q\&A, the tiktoken library is used to accurately calculate Tokens. For non-streaming Q\&A, billing is based directly on the Tokens usage returned by the official API.
+3.  The balance does not expire and is permanently valid. According to user feedback, 30 yuan is estimated to last for half a year for an individual with moderate use of gpt-4o-mini.
+4.  All interfaces (including the free version) are guaranteed to be forwarded from official OpenAI or Azure interfaces, not unstable solutions like PEO, Plus, or reverse-engineered solutions. No inflation, no adulteration, guaranteeing stability.
 
-| **模型（Model）** | **价格** | **是否支持** |
-| --- | --- | --- |
-| gpt-image-1 | 文字输入: 0.04CA/1K Tokens, 图片输入: 0.08CA/1K Tokens, 图片输入：0.32 CA/1K Tokens | 支持 |
-| dall-e-3 1024×1024 | 0.280 / image | 支持 |
-| dall-e-3 1024×1792 | 0.560 / image | 支持 |
-| dall-e-3-hd 1024×1024 | 0.560 / image | 支持 |
-| dall-e-3-hd 1024×1792 | 0.840 / image | 支持 |
-| dall-e-2 1024×1024 | 0.14 / image | 支持 |
-| dall-e-2 512x512 | 0.126 / image | 支持 |
-| dall-e-2 256x256 | 0.112 / image | 支持 |
-| tts-1 | 0.105 / 1K characters | 支持 |
-| tts-1-hd | 0.21 / 1K characters | 支持 |
-| gpt-4o-mini-tts | (0.12 / minute) + (0.012 / 1kToken) | 支持 |
-| Whisper | 0.042 / minute | 支持 |
-| gpt-4o-mini-transcribe | 0.024 / minute | 支持 |
-| gpt-4o-transcribe | 0.048 / minute | 支持 |
-| text-embedding-ada-002 | 0.0007 / 1K Tokens | 支持 |
-| text-embedding-3-small | 0.00014 / 1K Tokens | 支持 |
-| text-embedding-3-large | 0.00091 / 1K Tokens | 支持 |
+## Paid Version Supported Models
 
-[1] Tokens: GPT中指文本数据的最小处理单位。一个token可以是一个字、一个词或者一个字符，这取决于所使用的语言和处理方式。例如，在英文中，一个token可能是一个单词，如"apple"；在中文中，一个token可能是一个字符，如"苹"。 1K Tokens = 1000个Token。（根据经验估算：gpt-4o模型 1000Tokens≈1000-1200个中文字符；非gpt-4o模型1000Tokens≈700-800中文字符）
+| **Model** | **Input** | **Output** | **Supported** | **Features** |
+| :--- | :--- | :--- | :--- | :--- |
+| o3 | 0.08 / 1K Tokens | 0.32 / 1K Tokens | Yes | Sets a new standard for math, science, coding, vision reasoning tasks, and technical writing. Points to o3-2025-04-16 |
+| o3-2025-04-16 | 0.08 / 1K Tokens | 0.32 / 1K Tokens | Yes | Sets a new standard for math, science, coding, vision reasoning tasks, and technical writing. |
+| o4-mini | 0.0088 / 1K Tokens | 0.0352 / 1K Tokens | Yes | Sets a new standard for math, science, coding, vision reasoning tasks, and technical writing. Points to o4-mini-2025-04-16 |
+| o4-mini-2025-04-16 | 0.0088 / 1K Tokens | 0.0352 / 1K Tokens | Yes | Sets a new standard for math, science, coding, vision reasoning tasks, and technical writing. |
+| gpt-4.1 | 0.014 / 1K Tokens | 0.056 / 1K Tokens | Yes | OpenAI's latest model with significant improvements in coding, instruction following, and long context. 1M input, 32k output. Points to gpt-4.1-2025-04-14 |
+| gpt-4.1-2025-04-14 | 0.014 / 1K Tokens | 0.056 / 1K Tokens | Yes | OpenAI's latest model with significant improvements in coding, instruction following, and long context. 1M input, 32k output. |
+| gpt-4.1-mini | 0.0028 / 1K Tokens | 0.0112 / 1K Tokens | Yes | OpenAI's latest model with significant improvements in coding, instruction following, and long context. 1M input, 32k output. Points to gpt-4.1-mini-2025-04-14 |
+| gpt-4.1-mini-2025-04-14 | 0.0028 / 1K Tokens | 0.0112 / 1K Tokens | Yes | OpenAI's latest model with significant improvements in coding, instruction following, and long context. 1M input, 32k output. |
+| gpt-4.1-nano | 0.0007 / 1K Tokens | 0.0028 / 1K Tokens | Yes | OpenAI's latest model with significant improvements in coding, instruction following, and long context. 1M input, 32k output. Points to gpt-4.1-nano-2025-04-14 |
+| gpt-4.1-nano-2025-04-14 | 0.0007 / 1K Tokens | 0.0028 / 1K Tokens | Yes | OpenAI's latest model with significant improvements in coding, instruction following, and long context. 1M input, 32k output. |
+| gpt-3.5-turbo | 0.0035 / 1K Tokens | 0.0105 / 1K Tokens | Yes | Default model, equivalent to gpt-3.5-turbo-0125 |
+| gpt-3.5-turbo-1106 | 0.007 / 1K Tokens | 0.014 / 1K Tokens | Yes | Model updated on November 6, 2023 |
+| gpt-3.5-turbo-0125 | 0.0035 / 1K Tokens | 0.0105 / 1K Tokens | Yes | Latest model from January 25, 2024, with the latest data, lower price, faster speed, and fixes for some bugs from the 1106 version. |
+| gpt-3.5-turbo-16k | 0.021 / 1K Tokens | 0.028 / 1K Tokens | Yes | Suitable for quick answers to simple questions, more words |
+| gpt-3.5-turbo-instruct | 0.0105 / 1K Tokens | 0.014 / 1K Tokens | Yes | Completions model for text generation, providing an accurate natural language processing model not generally needed by average users |
+| gpt-4.5-preview | 0.525 / 1K Tokens | 1.05 / 1K Tokens | Yes | OpenAI's latest model, gpt-4.5 |
+| gpt-4.5-preview-2025-02-27 | 0.525 / 1K Tokens | 1.05 / 1K Tokens | Yes | OpenAI's latest model, gpt-4.5 |
+| o1-mini | 0.021 / 1K Tokens | 0.084 / 1K Tokens | Yes | Reasoning model for complex tasks |
+| o1-preview | 0.105 / 1K Tokens | 0.42 / 1K Tokens | Yes | Reasoning model for complex tasks |
+| o3-mini [5] | 0.0088 / 1K Tokens | 0.0352 / 1K Tokens | Yes | Reasoning model for complex tasks |
+| o1 [5] | 0.12 / 1K Tokens | 0.48 / 1K Tokens | Yes | Reasoning model for complex tasks, the most powerful model to date |
+| gpt-4o-search-preview | 0.02125/1K Tokens | 0.085/1K Tokens | Yes | OpenAI's search model, supports web search, points to the latest 4o search model |
+| gpt-4o-search-preview-2025-03-11 | 0.02125/1K Tokens | 0.085/1K Tokens | Yes | OpenAI's search model, supports web search |
+| gpt-4o-mini-search-preview | 0.001275/1K Tokens | 0.0051 /1K Tokens | Yes | OpenAI's search model, supports web search, points to the latest 4o-mini search model |
+| gpt-4o-mini-search-preview-2025-03-11 | 0.001275/1K Tokens | 0.0051 /1K Tokens | Yes | OpenAI's search model, supports web search |
+| gpt-4 | 0.21 / 1K Tokens | 0.42 / 1K Tokens | Yes | Default model, equivalent to gpt-4-0613 |
+| gpt-4o | 0.0175/1K Tokens + Image fee [2] | 0.07/1K Tokens | Yes | OpenAI's model is cheaper, faster, and smarter, points to the latest 4o version |
+| gpt-4o-2024-05-13 | 0.035/1K Tokens + Image fee [2] | 0.105/1K Tokens | Yes | OpenAI's gpt-4o model released on 2024-05-13 |
+| gpt-4o-2024-08-06 | 0.0175/1K Tokens + Image fee [2] | 0.07/1K Tokens | Yes | OpenAI's gpt-4o model released on 2024-08-06, supports 128k input, 16k output |
+| gpt-4o-2024-11-20 | 0.0175/1K Tokens + Image fee [2] | 0.07/1K Tokens | Yes | OpenAI's gpt-4o model released on 2024-11-20, this model has improved creative writing capabilities—more natural, engaging, and targeted writing |
+| chatgpt-4o-latest | 0.035/1K Tokens + Image fee [2] | 0.105/1K Tokens | Yes | Dynamically updated version, continuously integrating OpenAI's latest research [4] |
+| gpt-4o-mini | 0.00105/1K Tokens + Image fee [2] | 0.0042/1K Tokens | Yes | OpenAI's latest model, lower price, output quality is between 3.5 and 4o, and supports image reading |
+| gpt-4-0613 | 0.21 / 1K Tokens | 0.42 / 1K Tokens | Yes | Model updated on June 13, 2023 |
+| gpt-4-turbo-preview | 0.07 / 1K Tokens | 0.21 / 1K Tokens | Yes | Latest model, 128K input, max 4K output, knowledge base updated to April 2023. This model always points to the latest preview version of GPT-4. |
+| gpt-4-0125-preview | 0.07 / 1K Tokens | 0.21 / 1K Tokens | Yes | Model updated on January 25, 2024, 128K input, max 4K output, knowledge base updated to April 2023, fixes some bugs from the 1106 version. |
+| gpt-4-1106-preview | 0.07 / 1K Tokens | 0.21 / 1K Tokens | Yes | Model updated on November 6, 2023, 128K input, max 4K output, knowledge base updated to April 2023. |
+| gpt-4-vision-preview | 0.07 / 1K Tokens + Image fee [2] | 0.21 / 1K Tokens | Yes | Multimodal, supports image recognition |
+| gpt-4-turbo | 0.07 / 1K Tokens + Image fee [2] | 0.21 / 1K Tokens | Yes | OpenAI's latest multimodal model, supports image recognition, supports function tools |
+| gpt-4-turbo-2024-04-09 | 0.07 / 1K Tokens + 0.10115 \* number of images [2] | 0.21 / 1K Tokens | Yes | OpenAI's latest multimodal model, supports image recognition, supports function tools |
+| gpt-3.5-turbo-ca | 0.001 / 1K Tokens | 0.003 / 1K Tokens | Yes | Azure OpenAI relay (also a type of official model), cheaper but slower in response |
+| gpt-4-ca | 0.12 / 1K Tokens | 0.24 / 1K Tokens | Yes | Service provided by a third-party premium provider, advantage is the cheap price, but stability is not as good as non-CA. Model return and capabilities are the same. |
+| gpt-4-turbo-ca | 0.04 / 1K Tokens + 0.0578 \* number of images [3] | 0.12 / 1K Tokens | Yes | Service provided by a third-party premium provider, advantage is the cheap price, but stability is not as good as non-CA. Model return and capabilities are the same. |
+| gpt-4o-ca | 0.01 / 1K Tokens + 0.0289 \* number of images [3] | 0.04 / 1K Tokens | Yes | Service provided by a third-party premium provider, advantage is the cheap price, but stability is not as good as non-CA. Model return and capabilities are the same. |
+| gpt-4o-mini-ca | 0.00075 / 1K Tokens | 0.003 / 1K Tokens | Yes | Service provided by a third-party premium provider, advantage is the cheap price, but stability is not as good as non-CA. Model return and capabilities are the same. |
+| chatgpt-4o-latest-ca | 0.02 / 1K Tokens | 0.06 / 1K Tokens | Yes | Service provided by a third-party premium provider, advantage is the cheap price, but stability is not as good as non-CA. Model return and capabilities are the same. |
+| o1-mini-ca | 0.012 / 1K Tokens | 0.048 / 1K Tokens | Yes | Service provided by a third-party premium provider, advantage is the cheap price, but stability is not as good as non-CA. Model return and capabilities are the same. |
+| o1-preview-ca | 0.06 / 1K Tokens | 0.24 / 1K Tokens | Yes | Service provided by a third-party premium provider, advantage is the cheap price, but stability is not as good as non-CA. Model return and capabilities are the same. |
+| deepseek-reasoner | 0.0036 / 1K Tokens | 0.0144 / 1K Tokens | Yes | Deepseek's Reasoner R1 model. This model is deployed and provided by a third-party supplier, there is a small probability of slow response or errors. |
+| deepseek-r1 | 0.0024 / 1K Tokens | 0.0096 / 1K Tokens | Yes | Deepseek's Reasoner R1 model. This model is provided by a third-party (Volcengine) supplier, there is a small probability of slow response or errors. |
+| deepseek-v3 | 0.0012 / 1K Tokens | 0.0048 / 1K Tokens | Yes | Deepseek's chat model. This model is provided by a third-party (Volcengine) supplier, there is a small probability of slow response or errors. |
+| claude-3-7-sonnet-20250219 | 0.015 / 1K Tokens | 0.075 / 1K Tokens | Yes | Claude's model. This model is provided by a third-party supplier, there is a small probability of slow response or errors. |
+| claude-3-5-sonnet-20240620 | 0.015 / 1K Tokens | 0.075 / 1K Tokens | Yes | Claude's model. This model is provided by a third-party supplier, there is a small probability of slow response or errors. |
+| claude-3-5-sonnet-20241022 | 0.015 / 1K Tokens | 0.075 / 1K Tokens | Yes | Claude's model. This model is provided by a third-party supplier, there is a small probability of slow response or errors. |
+| claude-3-5-haiku-20241022 | 0.005 / 1K Tokens | 0.025 / 1K Tokens | Yes | Claude's model. This model is provided by a third-party supplier, there is a small probability of slow response or errors. |
+| gemini-1.5-flash-latest | 0.0006 / 1K Tokens | 0.0024 / 1K Tokens | Yes | Google Gemini's model. This model is provided by a third-party supplier, there is a small probability of slow response or errors. |
+| gemini-1.5-pro-latest | 0.01 / 1K Tokens | 0.04 / 1K Tokens | Yes | Google Gemini's model. This model is provided by a third-party supplier, there is a small probability of slow response or errors. |
+| gemini-exp-1206 | 0.01 / 1K Tokens | 0.04 / 1K Tokens | Yes | Google Gemini's model. This model is provided by a third-party supplier, there is a small probability of slow response or errors. |
+| gemini-2.0-flash-exp | 0.01 / 1K Tokens | 0.04 / 1K Tokens | Yes | Google Gemini's model. This model is provided by a third-party supplier, there is a small probability of slow response or errors. |
+| gemini-2.0-pro-exp-02-05 | 0.01 / 1K Tokens | 0.04 / 1K Tokens | Yes | Google Gemini's model. This model is provided by a third-party supplier, there is a small probability of slow response or errors. |
+| gemini-2.0-flash | 0.005 / 1K Tokens | 0.02 / 1K Tokens | Yes | Google Gemini's model. This model is provided by a third-party supplier, there is a small probability of slow response or errors. |
+| gemini-2.5-pro-exp-03-25 | 0.01 / 1K Tokens | 0.04 / 1K Tokens | Yes | Gemini's latest flagship model. This model is provided by a third-party supplier, there is a small probability of slow response or errors. |
+| gemini-2.5-pro-preview-05-06 | 0.01 / 1K Tokens | 0.04 / 1K Tokens | Yes | Gemini's latest flagship model. This model is provided by a third-party supplier, there is a small probability of slow response or errors. |
+| gemini-2.5-flash-preview-04-17 | 0.0006 / 1K Tokens | 0.014 / 1K Tokens | Yes | Gemini's latest flagship model. This model is provided by a third-party supplier, there is a small probability of slow response or errors. |
+| grok-3 | 0.016 / 1K Tokens | 0.08 / 1K Tokens | Yes | Grok basic model (web reverse-engineered version). This model is provided by a third-party supplier, there is a small probability of slow response or errors. |
+| grok-3-reasoner | 0.016 / 1K Tokens | 0.08 / 1K Tokens | Yes | Reasoning-enhanced model (web reverse-engineered version). This model is provided by a third-party supplier, there is a small probability of slow response or errors. |
+| grok-3-deepsearch | 0.016 / 1K Tokens | 0.08 / 1K Tokens | Yes | Deep web search model (web reverse-engineered version). This model is provided by a third-party supplier, there is a small probability of slow response or errors. |
 
-[2] 多模态模型图片如何计算占用tokens请参考OpenAI官方 https://openai.com/api/pricing 。分辨率越高，tokens占用越多，但最高不会超过1445tokens。
+| **Model** | **Price** | **Supported** |
+| :--- | :--- | :--- |
+| gpt-image-1 | Text input: 0.04CA/1K Tokens, Image input: 0.08CA/1K Tokens, Image input: 0.32 CA/1K Tokens | Yes |
+| dall-e-3 1024×1024 | 0.280 / image | Yes |
+| dall-e-3 1024×1792 | 0.560 / image | Yes |
+| dall-e-3-hd 1024×1024 | 0.560 / image | Yes |
+| dall-e-3-hd 1024×1792 | 0.840 / image | Yes |
+| dall-e-2 1024×1024 | 0.14 / image | Yes |
+| dall-e-2 512x512 | 0.126 / image | Yes |
+| dall-e-2 256x256 | 0.112 / image | Yes |
+| tts-1 | 0.105 / 1K characters | Yes |
+| tts-1-hd | 0.21 / 1K characters | Yes |
+| gpt-4o-mini-tts | (0.12 / minute) + (0.012 / 1kToken) | Yes |
+| Whisper | 0.042 / minute | Yes |
+| gpt-4o-mini-transcribe | 0.024 / minute | Yes |
+| gpt-4o-transcribe | 0.048 / minute | Yes |
+| text-embedding-ada-002 | 0.0007 / 1K Tokens | Yes |
+| text-embedding-3-small | 0.00014 / 1K Tokens | Yes |
+| text-embedding-3-large | 0.00091 / 1K Tokens | Yes |
 
-[3] CA系列多模态模型在计算图片价格时，如果使用流式传输(参数stream=true)，则按照0.10115每张图计费；如果使用非流式传输（参数stream=false），这时按照OpenAI返回的实际消耗量计费，如果你的图片分辨率较低，通常低于0.10115。因此，我们建议在使用gpt-4-turbo分析图片时，使用非流式传输（参数stream=false）。
+[1] Tokens: The smallest unit of text data processed in GPT. A token can be a word, a subword, or a character, depending on the language and processing method. For example, in English, a token might be a word like "apple"; in Chinese, a token might be a character like "苹". 1K Tokens = 1000 Tokens. (Based on experience: gpt-4o model 1000 Tokens ≈ 1000-1200 Chinese characters; non-gpt-4o models 1000 Tokens ≈ 700-800 Chinese characters)
 
-[4] 动态更新的版本，持续集成OpenAI最新的研究成果。它为开发人员和研究人员提供了探索最前沿技术的机会。请注意，尽管该模型展示了最新的能力，但对于生产环境的使用，我们仍然建议选择经过优化的旧版GPT模型，以确保更高的稳定性和性能
+[2] How to calculate token usage for multimodal model images, please refer to the official OpenAI documentation: [https://openai.com/api/pricing](https://openai.com/api/pricing). The higher the resolution, the more tokens are used, but it will not exceed 1445 tokens.
 
-[5] o1和o3-mini由于这两种模型的可用账号数量较少，资源稳定性可能存在波动，即可能出现时可用、时不可用的情况。建议如在生产环境中使用时做好相应的容错处理。
+[3] For CA series multimodal models, when calculating the price for images, if streaming is used (parameter stream=true), the cost is 0.10115 per image. If non-streaming is used (parameter stream=false), the cost is based on the actual consumption returned by OpenAI. If your image resolution is low, it is usually less than 0.10115. Therefore, we recommend using non-streaming (parameter stream=false) when analyzing images with gpt-4-turbo.
 
-## 如何使用
-- 由于频繁的恶意请求，我们不再直接提供公共的免费Key，现在需要你使用你的Github账号绑定来领取你自己的免费Key。
-- 🚀[申请领取内测免费API Key](https://api.chatanywhere.org/v1/oauth/free/render) 或 [购买内测付费API Key](https://api.chatanywhere.tech/#/shop/)
-- 转发Host1: `https://api.chatanywhere.tech` (国内中转，延时更低)
-- 转发Host2: `https://api.chatanywhere.org` (国外使用)
-- 余额和使用记录查询（通知公告也会发在这里）: [余额查询及公告](https://api.chatanywhere.tech/)
-- 转发API无法直接向官方接口api.openai.com发起请求，需要将请求地址改为api.chatanywhere.tech才可以使用，大部分插件和软件都可以修改。
-- 遇到问题可以前往[ChatAnywhere Status](https://status.chatanywhere.tech/)查看接口可用性。
+[4] A dynamically updated version that continuously integrates OpenAI's latest research. It provides developers and researchers with the opportunity to explore cutting-edge technologies. Please note that although this model showcases the latest capabilities, for production use, we still recommend choosing an optimized older version of the GPT model to ensure higher stability and performance.
 
-## 常见软件/插件使用方法
+[5] Due to the limited number of available accounts for the o1 and o3-mini models, resource stability may fluctuate, meaning they may be available at times and unavailable at others. It is recommended to implement appropriate fault tolerance when using them in a production environment.
 
-### **python openai官方库（使用langchain等）**
-示例代码请参考[demo.py](./demo.py)或[OpenAI官方文档](https://platform.openai.com/docs/guides/text-generation)
+## How to Use
 
-***方法一***
+  - Due to frequent malicious requests, we no longer provide public free keys directly. You now need to link your Github account to receive your own free key.
+  - 🚀[Apply for a free internal test API Key](https://api.chatanywhere.org/v1/oauth/free/render) or [Purchase a paid internal test API Key](https://api.chatanywhere.tech/#/shop/)
+  - Forwarding Host 1: `https://api.chatanywhere.tech` (Domestic relay, lower latency)
+  - Forwarding Host 2: `https://api.chatanywhere.org` (For use outside of China)
+  - Balance and usage record query (announcements will also be posted here): [Balance Query & Announcements](https://api.chatanywhere.tech/)
+  - The forwarding API cannot directly make requests to the official interface https://www.google.com/search?q=api.openai.com. You need to change the request address to api.chatanywhere.tech to use it. Most plugins and software can be modified.
+  - If you encounter problems, go to [ChatAnywhere Status](https://status.chatanywhere.tech/) to check the interface availability.
+
+## Common Software/Plugin Usage Methods
+
+### **python openai official library (using langchain, etc.)**
+
+For sample code, please refer to [demo.py](https://www.google.com/search?q=./demo.py) or the [OpenAI Official Documentation](https://platform.openai.com/docs/guides/text-generation)
+
+***Method One***
 
 ```python
 from openai import OpenAI
@@ -197,117 +202,103 @@ client = OpenAI(
 )
 ```
 
-***方法二（方法一不起作用用这个）***
+***Method Two (Use this if Method One doesn't work)***
 
-修改环境变量OPENAI_API_BASE，各个系统怎么改环境变量请自行搜索，修改环境变量后不起作用请重启系统。
+Modify the environment variable OPENAI\_API\_BASE. Please search for how to change environment variables for your respective system. If it doesn't work after modifying the environment variable, please restart your system.
+
 ```bash
 OPENAI_API_BASE=https://api.chatanywhere.tech/v1
-或 OPENAI_API_BASE=https://api.chatanywhere.org/v1
+or OPENAI_API_BASE=https://api.chatanywhere.org/v1
 ```
-### **开源gpt_academic**
-找到`config.py`文件中的`API_URL_REDIRECT`配置并修改为以下内容：
+
+### **Open-source gpt\_academic**
+
+Find the `API_URL_REDIRECT` configuration in the `config.py` file and modify it to the following:
+
 ```python
 API_URL_REDIRECT = {"https://api.openai.com/v1/chat/completions": "https://api.chatanywhere.tech/v1/chat/completions"}
 # API_URL_REDIRECT = {"https://api.openai.com/v1/chat/completions": "https://api.chatanywhere.org/v1/chat/completions"}
 ```
-### **Gomoon （支持读文件，构建知识库，推荐使用）**
-Gomoon 是一款开源的桌面大模型应用，支持mac和Windows平台。额外支持了解析文件、图片，本地知识库等能力。
 
-官网地址：https://gomoon.top
+### **Gomoon (Supports reading files, building knowledge bases, recommended)**
 
-GitHub地址：https://github.com/wizardAEI/Gomoon
+Gomoon is an open-source desktop large model application that supports Mac and Windows platforms. It additionally supports parsing files, images, local knowledge bases, etc.
 
-使用方法：进入Gomoon设置页面(页面右上角)，如图在设置中填入密钥，并将代理设置为`https://api.chatanywhere.tech/v1`
+Official Website: [https://gomoon.top](https://gomoon.top)
 
-![](images/gomoon.png)
+GitHub Address: [https://github.com/wizardAEI/Gomoon](https://github.com/wizardAEI/Gomoon)
 
-### **Zotero插件zotero-gpt**
+How to use: Enter the Gomoon settings page (top right corner of the page), fill in the key in the settings as shown in the picture, and set the proxy to `https://api.chatanywhere.tech/v1`
 
-支持AI阅读论文，科研神器。
+### **Zotero plugin zotero-gpt**
 
-下载链接：https://github.com/MuiseDestiny/zotero-gpt/releases (下载最新版本的zotero-gpt.xpi文件)
+Supports AI-powered paper reading, a research artifact.
 
-**Zotero7使用方法（建议使用Zotero7）**
+Download link: https://github.com/MuiseDestiny/zotero-gpt/releases (Download the latest version of the zotero-gpt.xpi file)
 
-1. 安装插件
+**Zotero 7 Usage (Recommended to use Zotero 7)**
 
-在下载链接下载好插件后（zotero7应该下载1.0以上版本的插件），点击zotero左上角 工具->插件
+1.  Install the plugin
 
-点击Install Plugin From File
+    After downloading the plugin from the link (for Zotero 7, you should download version 1.0 or above), click on Tools -\> Add-ons in the top left corner of Zotero.
 
-![](images/zotero7-gpt1.png)
+    Click Install Add-on From File
 
-找到你下载的zotero-gpt.xpi安装
+    Find the zotero-gpt.xpi you downloaded and install it.
 
-2. 配置插件
+2.  Configure the plugin
 
-点击zotero左上角 编辑->设置
+    Click on Edit -\> Preferences in the top left corner of Zotero.
 
-然后如图设置即可
+    Then set it up as shown in the picture.
 
-![](images/zotero7-gpt2.png)
+**Zotero 6 Usage**
 
-**Zotero6使用方法**
+After installing the plugin, use the following commands to set it up:
 
-安装好插件后使用以下命令设置
 ```
 /api https://api.chatanywhere.tech
 
-/secretKey 购买的转发key 记住别忘记带sk-
+/secretKey your_purchased_forwarding_key remember not to forget sk-
 
-# 切换模型命令
+# Command to switch models
 /model gpt-3.5-turbo-0125 
 ```
 
-![](images/zotero-gpt.png)
+### **Zotero translation plugin zotero-pdf-translate**
 
+Download link: https://github.com/windingwind/zotero-pdf-translate/releases
 
-### **Zotero翻译插件zotero-pdf-translate**
+Fill in the interface address: https://api.chatanywhere.tech/v1/chat/completions
 
-下载链接：https://github.com/windingwind/zotero-pdf-translate/releases
-
-接口地址填写: https://api.chatanywhere.tech/v1/chat/completions
-
-不用管状态是否显示可用 填上之后就可以了
-
-![](images/zotero-pdf-translate.png)
-
+Don't worry about whether the status shows as available. Just fill it in and it will work.
 
 ### **BotGem(AMA)**
 
-ChatGPT桌面应用，支持全平台，***支持gpt-4-vision***。
+ChatGPT desktop application, supports all platforms, ***supports gpt-4-vision***.
 
-下载链接：https://bytemyth.com/ama
+Download link: https://bytemyth.com/ama
 
-使用方法：下载安装后在设置中如图设置，并点击更新。
-
-![](images/botgem.png)
+How to use: After downloading and installing, go to settings and set it up as shown in the picture, then click update.
 
 ### **ChatBox**
 
-ChatGPT开源桌面应用，支持全部桌面平台。
+Open-source ChatGPT desktop application, supports all desktop platforms.
 
-下载链接：https://github.com/Bin-Huang/chatbox/releases
+Download link: [https://github.com/Bin-Huang/chatbox/releases](https://github.com/Bin-Huang/chatbox/releases)
 
-使用方法：如图在设置中填入购买的密钥，并将代理设置为`https://api.chatanywhere.tech`即可
+How to use: Fill in the purchased key in the settings as shown in the picture, and set the proxy to `https://api.chatanywhere.tech`
 
-![](images/chatbox.png)
+### **Browser plugin ChatGPT Sidebar**
 
-### **浏览器插件ChatGPT Sidebar**
+Official website link: [https://chatgpt-sidebar.com/](https://chatgpt-sidebar.com/)
 
-官网链接：https://chatgpt-sidebar.com/
+After installing the plugin, enter the settings page, modify the settings as shown, and change the url to `https://api.chatanywhere.tech`.
 
-安装好插件后进入设置页面，如图所示修改设置，将url修改为 `https://api.chatanywhere.tech` 。
+### **Jetbrains plugin ChatGPT - Easycode**
 
-![](images/sidebar.png)
+\<img src="./images/jet1.png" width='200'/\>
 
-### **Jetbrains插件ChatGPT - Easycode**
-<img src="./images/jet1.png" width='200'/>
+After installing the plugin, configure it in Settings \> Tools \> OpenAI \> GPT 3.5 Turbo as shown in the picture. The key is to change the Server Settings to `https://api.chatanywhere.tech/v1/chat/completions` and check Customize Server.
 
-安装好插件后在Settings > Tools > OpenAI > GPT 3.5 Turbo中如图所示配置好插件，重点要将Server Settings 修改为 `https://api.chatanywhere.tech/v1/chat/completions` 。并勾选Customize Server。
-
-![](images/jet2.png)
-
-
-
-[![Star History Chart](https://api.star-history.com/svg?repos=chatanywhere/GPT_API_free&type=Date)](https://www.star-history.com/#chatanywhere/GPT_API_free&Date)
+[](https://www.star-history.com/#chatanywhere/GPT_API_free&Date)
