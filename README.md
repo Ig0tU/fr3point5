@@ -1,6 +1,10 @@
-\<div align="center"\>
-\<img src="./images/logo.png" alt="icon" width="50px"/\>
-\<h1 align="center"\>GPT-API-free / DeepSeek-API-free\</h1\>
+<div align="center">
+  <img src="./images/logo.png" alt="icon" width="50px"/>
+  <h1 align="center">GPT-API-free / DeepSeek-API-free</h1>
+  <p>Free to use gpt | deepseek / Supports gpt | deepseek | claude | gemini | grok</p>
+  <p>Domestic dynamic acceleration, direct connection without a proxy, unified protocol for convenient access.</p>
+  <p>Quick Start / API Documentation / Apply for a Free Internal Test Key / Paid Key Support / Service Availability</p>
+</div>
 
 Free to use gpt | deepseek / Supports gpt | deepseek | claude | gemini | grok
 
